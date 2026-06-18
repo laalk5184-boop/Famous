@@ -1,0 +1,8 @@
+{
+  "name": "Famous Furnishers",
+  "description": "Premium quality furniture designed for comfort, durability and modern living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
